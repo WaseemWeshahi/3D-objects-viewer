@@ -12,7 +12,7 @@ Student Number: 208300145
 This Software allows you to:
 - load multiple 3D objects into the scene, rotate, translate, rescale them and change their colors.
 - load multiple cameras into the scene and move them around and check each camera's point of view.
-- load multiple light sources into the scene and changing their color, intensity and position.
+- load multiple light sources into the scene and change their color, intensity and position.
 - add textures on the objects
 - some utility features like drawing normals, bounding box, "tin foil gloss" effect on the object and many more.
 
